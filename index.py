@@ -1,4 +1,2 @@
-def HelloWord():
-    pass
-
-print(HelloWord)
+data='me stoopid'
+print(data)
